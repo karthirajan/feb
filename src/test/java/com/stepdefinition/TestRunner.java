@@ -13,7 +13,7 @@ import cucumber.api.junit.Cucumber;
                 		 "json:target/reports.json"},
                  dryRun = false,
                  monochrome = true,
-                 tags= {"@regression"})
+                 tags= {"@smoke"})
 
 public class TestRunner {
     
