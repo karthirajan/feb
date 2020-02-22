@@ -11,7 +11,7 @@ Background:
     And User click on submit button
     Then User should be display cutomer id
  
- @smoke @karthi 
+ @karthi 
   Scenario: Title of your scenario with oneDim
     When User enters all the fields with one dim list
     |karthi|rajan|rjan@gmail.com|tanjore|123565432|
